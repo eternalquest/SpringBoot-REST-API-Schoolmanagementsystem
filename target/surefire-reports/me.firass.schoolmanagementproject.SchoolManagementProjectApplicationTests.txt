@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.firass.schoolmanagementproject.SchoolManagementProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.635 s - in me.firass.schoolmanagementproject.SchoolManagementProjectApplicationTests

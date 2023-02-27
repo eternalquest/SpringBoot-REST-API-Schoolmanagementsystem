@@ -1,0 +1,4 @@
+me\firass\schoolmanagementproject\web\StudentController.class
+me\firass\schoolmanagementproject\repositories\StudentRepository.class
+me\firass\schoolmanagementproject\models\Student.class
+me\firass\schoolmanagementproject\SchoolManagementProjectApplication.class
